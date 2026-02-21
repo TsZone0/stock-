@@ -1,0 +1,11 @@
+pip install gunicorn
+```
+
+`requirements.txt` update karo:
+```
+flask
+flask-cors
+yfinance
+pandas
+numpy
+gunicorn
